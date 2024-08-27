@@ -26,7 +26,7 @@
 <summary>:chart_with_upwards_trend:	 GitHub Stats</summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=franziskaschrefl&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" alt="github stats" width="38%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franziskaschrefl&layout=compact&theme=gotham" alt="github stats" width="45%" align="right"/>
 </details>
 
 
