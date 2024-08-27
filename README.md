@@ -5,22 +5,14 @@
 - 🔭 Experience: 2 years of Coding
 - 🌱 Main Interest: Software Engineering
 - 📫 How to reach me: franziska.schrefl@proton.me
-- ⚡ Purpose of this GitHub: gather coding experience, build a portfolio, archive progress
+- ⚡ Goals of this GitHub: gather coding experience, build a portfolio, archive progress
 
-### :speech_balloon: Languages 
-- Java
-- C#
-- C
-- Python
-- HTML
-- CSS
-- PostgreSQL
+### Skills
+- :desktop_computer: Programming Languages: `Java`, `C`, `C#` & `Python`
+- :memo: Markup & Styling Languages: `HTML` & `CSS`
+- :floppy_disk: Databases: `PostgreSQL`
+- :hammer_and_wrench: IDEs: `IntelliJ Idea`, `Visual Studio`, `Visual Studio Code` & `Vim`
   
-### :hammer_and_wrench: Tools 	
-- IntelliJ Idea
-- Visual Studio
-- Visual Studio Code
-- Vim
 
 <details>
 <summary>:chart_with_upwards_trend:	 GitHub Stats</summary>
