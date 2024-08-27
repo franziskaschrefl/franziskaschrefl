@@ -5,7 +5,7 @@
 - 🔭 Experience: 2 years of Coding
 - 🌱 Main Interest: Software Engineering
 - 📫 How to reach me: franziska.schrefl@proton.me
-- ⚡ Goals of this GitHub: gather coding experience, build a portfolio, archive progress
+- :trophy: Goals of this GitHub: gather coding experience, build a portfolio, archive progress
 
 ### Skills
 - :desktop_computer: Programming Languages: `Java`, `C`, `C#` & `Python`
