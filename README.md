@@ -1,11 +1,11 @@
 # Hi, I'm Franziska Schrefl 👋
-## I studying Software & Information Engineering at TU Wien
+## I studying Software & Information Engineering at TU Wien :nerd_face:
 
 - 🔭 I’m currently in my 5th Semester
 - 🔭 Experience: 2 years of Coding
 - 🌱 Main Interest: Software Engineering
-- 📫 How to reach me: franziskaschrefl03@gmail.com
-- ⚡ Porpose of this GitHub: gather coding experience, build a portfolio, archive progress
+- 📫 How to reach me: franziska.schrefl@proton.me
+- ⚡ Purpose of this GitHub: gather coding experience, build a portfolio, archive progress
 
 ### Languages
 - Java
