@@ -1,5 +1,5 @@
 # Hi, I'm Franziska Schrefl 👋
-## I studying Software & Information Engineering at TU Wien :nerd_face:
+## I study Software & Information Engineering at TU Wien :nerd_face:
 
 - 🔭 I’m currently in my 5th Semester
 - 🔭 Experience: 2 years of Coding
