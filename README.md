@@ -1,16 +1,33 @@
-## Hey, I'm Franziska Schrefl 👋
+# Hi, I'm Franziska Schrefl 👋
+## I studying Software & Information Engineering at TU Wien
+
+- 🔭 I’m currently in my 5th Semester
+- 🔭 Experience: 2 years of Coding
+- 🌱 Main Interest: Software Engineering
+- 📫 How to reach me: franziskaschrefl03@gmail.com
+- ⚡ Porpose of this GitHub: gather coding experience, build a portfolio, archive progress
+
+### Languages
+- Java
+- C#
+- C
+- Python
+- HTML
+- CSS
+- PostgreSQL
+  
+### Tools
+- IntelliJ Idea
+- Visual Studio
+- Visual Studio Code
+- Vim
+
 
 <!--
 **franziskaschrefl/franziskaschrefl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
