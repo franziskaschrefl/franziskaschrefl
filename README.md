@@ -7,7 +7,7 @@
 - 📫 How to reach me: franziska.schrefl@proton.me
 - ⚡ Purpose of this GitHub: gather coding experience, build a portfolio, archive progress
 
-### Languages
+### :speech_balloon: Languages 
 - Java
 - C#
 - C
@@ -16,7 +16,7 @@
 - CSS
 - PostgreSQL
   
-### Tools
+### :hammer_and_wrench: Tools 	
 - IntelliJ Idea
 - Visual Studio
 - Visual Studio Code
