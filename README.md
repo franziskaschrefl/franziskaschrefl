@@ -8,7 +8,8 @@
 - :trophy: Goals of this GitHub: gather coding experience, build a portfolio, archive progress
 
 ### Skills
-- :desktop_computer: Programming Languages: `Java`, `C`, `C#` & `Python`
+- :desktop_computer: Programming Languages: `Java`, `C`, `C#`, `TypeScript` & `Python`
+- :pushpin: Frameworks: `Angular`, `Spring Boot` & `Blazor`
 - :memo: Markup & Styling Languages: `HTML` & `CSS`
 - :floppy_disk: Databases: `PostgreSQL`
 - :hammer_and_wrench: IDEs: `IntelliJ Idea`, `Visual Studio`, `Visual Studio Code` & `Vim`
