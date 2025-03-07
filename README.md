@@ -2,7 +2,7 @@
 ## I study Software & Information Engineering at TU Wien :nerd_face:
 
 - 🔭 I’m currently in my 6th Semester
-- 🔭 Experience: 2 years of coding
+- 🔭 Experience: 3 years of coding
 - 🌱 Main Interest: Software Engineering
 - 📫 How to reach me: franziska.schrefl@proton.me
 - :trophy: Goals of this GitHub: gather coding experience, build a portfolio, archive progress
