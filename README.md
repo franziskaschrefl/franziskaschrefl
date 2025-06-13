@@ -13,7 +13,7 @@
 - :memo: Markup & Styling Languages: `HTML` & `CSS`
 - :floppy_disk: Databases: `PostgreSQL`
 - :hammer_and_wrench: IDEs: `IntelliJ Idea`, `Visual Studio`, `Visual Studio Code` & `Vim`
-- :woman_technologist: Operating Systems: `Windows` & `Linus`
+- :woman_technologist: Operating Systems: `Windows` & `Linux`
   
 
 <details>
