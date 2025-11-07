@@ -1,7 +1,7 @@
 # Hi, I'm Franziska Schrefl 👋
 ## I study Software & Information Engineering at TU Wien :nerd_face:
 
-- 🔭 I’m currently in my 6th Semester
+- 🔭 I’m currently in my 7th Semester
 - 🔭 Experience: 3 years of coding
 - 🌱 Main Interest: Software Engineering
 - 📫 How to reach me: franziska.schrefl@proton.me
